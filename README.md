@@ -4,8 +4,7 @@ In addition, two fragments used for profile view and setting view through menu n
 
 # Application Screenshots
 
-1. Main Screen
-Monthly payment calculation
+1. Main Screen (Monthly payment calculator)
 
 ![image](https://github.com/user-attachments/assets/a1509f66-590c-493c-acf4-54e158f4ae40)
 
